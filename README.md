@@ -81,7 +81,7 @@ streamlit run app.py
 
 ### App UI
 
-![App UI](app-ui.JPG)
+![App UI](app-UI.JPG)
 
 ---
 
